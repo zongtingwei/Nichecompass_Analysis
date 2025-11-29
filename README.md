@@ -4,7 +4,7 @@
 Nichecompass_Analysis
 
 ## 🚀 How to run
-### build the cellphonedb env
+### build the nichecompass conda environment
 
 ```bash
 conda create -n nichecompass python=3.10 -y
