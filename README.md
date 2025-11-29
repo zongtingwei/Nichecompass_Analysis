@@ -14,4 +14,12 @@ pip install pyg_lib torch_scatter torch_sparse torch_cluster torch_spline_conv -
 pip install torch-geometric nichecompass "numpy<2" scanpy jupyter matplotlib
 pip install igraph leidenalg
 ```
+download the official Nichecompass respository
+```bash
+git clone https://github.com/Lotfollahi-lab/nichecompass.git
+or
+directly download the zip file into your server.
+```
+
+
 
