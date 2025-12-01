@@ -29,7 +29,7 @@ warnings.filterwarnings("ignore")
 
 # Path to the specific model folder you want to analyze
 # Example: /root/autodl-tmp/BGI/STOmics/BM11_..._nichecompass_model
-MODEL_DIR = "/root/autodl-tmp/BGI/STOmics/BM11_E18.5_B04370A1_bin20_annotation_nichecompass_model"
+MODEL_DIR = "your_model_path"
 
 # Key parameters (Usually kept default)
 GP_NAMES_KEY = "nichecompass_gp_names"
