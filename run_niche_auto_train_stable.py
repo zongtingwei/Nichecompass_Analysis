@@ -9,13 +9,15 @@ import time
 # ==========================================================
 
 # 1. Path to gene ortholog mapping file (OmniPath Human -> Mouse)
-ORTHOLOG_FILE = "/root/autodl-tmp/BGI/STOmics/nichecompass/data/gene_annotations/human_mouse_gene_orthologs.csv"
+# official nichecompass respository
+ORTHOLOG_FILE = ".../nichecompass/data/gene_annotations/human_mouse_gene_orthologs.csv"
 
 # 2. Directory containing input data (.h5ad files)
-DATA_DIR = "/root/autodl-tmp/BGI/STOmics/spatial_data/bin20_h5ad_10.30"
+DATA_DIR = ".../spatial_data/bin20_h5ad_10.30"
 
 # 3. Base output directory for results
-OUTPUT_BASE_DIR = "/root/autodl-tmp/BGI/STOmics"
+# your own directory
+OUTPUT_BASE_DIR = ".../"
 
 # 4. Training parameters (Reduce BATCH_SIZE if OOM occurs)
 MAX_EPOCHS = 200
