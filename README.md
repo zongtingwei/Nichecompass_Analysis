@@ -65,6 +65,13 @@ If you use `Nichecompass` or its methods in your work, please cite the following
 ```
 </details>
 
+## 🪪 License
+This project is based on the implementation of [Nichecompass]([https://github.com/BIMK/SM-MOEA](https://github.com/Lotfollahi-lab/nichecompass)). Please refer to their respective licenses for details.
 
+## ☎️ Contact
+If you encounter any issues or have questions regarding code, please feel free to contact me.
+
+## ⭐ Star
+If you find this work helpful, please consider giving me a ⭐!
 
 
