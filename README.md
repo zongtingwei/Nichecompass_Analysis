@@ -48,6 +48,22 @@ python run_single_analysis.py
 MODEL_DIR = "your_model_path"
 ```
 
+## ⚙️ References
+If you use `Nichecompass` or its methods in your work, please cite the following BibTeX entries:
+<details open>
+<summary> bibtex </summary>
+
+```latex
+@article{birk2025quantitative,
+  title={Quantitative characterization of cell niches in spatially resolved omics data},
+  author={Birk, Sebastian and Bonafonte-Pard{\`a}s, Irene and Feriz, Adib Miraki and Boxall, Adam and Agirre, Eneritz and Memi, Fani and Maguza, Anna and Yadav, Anamika and Armingol, Erick and Fan, Rong and others},
+  journal={Nature Genetics},
+  pages={1--13},
+  year={2025},
+  publisher={Nature Publishing Group US New York}
+}
+```
+</details>
 
 
 
