@@ -23,7 +23,7 @@ git clone https://github.com/Lotfollahi-lab/nichecompass.git
 conda activate nichecompass
 python run_niche_auto_train_stable.py
 ```
-### remember to change the path to your own path
+### 💡 remember to change the path to your own path
 ```bash
 # 1. Path to gene ortholog mapping file (OmniPath Human -> Mouse)
 # official nichecompass respository
@@ -41,7 +41,7 @@ OUTPUT_BASE_DIR = ".../"
 ```bash
 python run_single_analysis.py
 ```
-### remember to change the path to your own path
+### 💡 remember to change the path to your own path
 ```bash
 # Path to the specific model folder you want to analyze
 # Example: /root/autodl-tmp/BGI/STOmics/BM11_..._nichecompass_model
