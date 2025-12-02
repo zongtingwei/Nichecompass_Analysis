@@ -18,7 +18,7 @@ pip install igraph leidenalg
 ```bash
 git clone https://github.com/Lotfollahi-lab/nichecompass.git
 ```
-### train your model
+### 🚀 train your model
 ```bash
 conda activate nichecompass
 python run_niche_auto_train_stable.py
@@ -37,7 +37,7 @@ DATA_DIR = ".../spatial_data/bin20_h5ad_10.30"
 OUTPUT_BASE_DIR = ".../"
 ```
 
-### results analysis
+### 📖 results analysis
 ```bash
 python run_single_analysis.py
 ```
