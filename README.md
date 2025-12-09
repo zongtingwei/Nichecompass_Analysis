@@ -39,8 +39,7 @@ OUTPUT_BASE_DIR = ".../"
 
 ### 📖 results analysis
 ```bash
-python run_single_ananlysis_v1.py
-python run_single_ananlysis_v2.py
+run_single_analysis_ultimate.py
 ```
 ### 💡 remember to change the path to your own path
 ```bash
