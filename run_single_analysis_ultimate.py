@@ -36,7 +36,7 @@ warnings.filterwarnings("ignore")
 # 🛠️ User Configuration
 # ==========================================================
 
-MODEL_DIR = "/root/autodl-tmp/BGI/STOmics/BM24_E18.5_B05155C5_bin20_annotation_nichecompass_model"
+MODEL_DIR = "your_path"
 
 GP_NAMES_KEY = "nichecompass_gp_names"
 LATENT_CLUSTER_KEY = "nichecompass_niches"
